@@ -24,3 +24,7 @@ Requires SFML (graphics, window, audio):
 g++ Code/Source.cpp -o sonic-forces -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ./sonic-forces
 Run from the repo root so the assets in Data/ load correctly.
+
+---
+
+Author: **Muhammad Taha** ([@Taha-1Git](https://github.com/Taha-1Git))
